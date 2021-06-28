@@ -7,6 +7,6 @@
 Técnologias:
     Reconhecimento de voz: (Google para reconhecimento online, Vosk para reconhecimento offline)
     Síntese de voz: (pyttsx3)
-    IA: Commands, Numpy, NLU (Natural Language Understand)
+    IA: Commands, Numpy, NLU (Natural Language Understand), Machile Learning.
 
 Funções do Assistente: Abrir programas, Conversar, trazer dados de forma rápida e etc.
