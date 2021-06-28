@@ -1,0 +1,137 @@
+commands:
+  # Comprimentos
+  - commmand:
+    input:  Bom Dia.
+    entity: greetings
+    action: bomdia
+  - commmand:
+    input:  Dia.
+    entity: greetings
+    action: bomdia
+  - commmand:
+    input:  Olá Ana.
+    entity: greetings
+    action: anna
+  - commmand:
+    input:  Ana.
+    entity: greetings
+    action: anna
+  - commmand:
+    input:  Tudo bem com você?
+    entity: greetings
+    action: tudobem
+  - commmand:
+    input:  Como você está?
+    entity: greetings
+    action: tudobem
+  - commmand:
+    input:  Boa tarde.
+    entity: greetings
+    action: boatarde
+  - commmand:
+    input:  Tarde.
+    entity: greetings
+    action: boatarde
+  - commmand:
+    input:  Boa Noite.
+    entity: greetings
+    action: boanoite
+  - commmand:
+    input:  Noite.
+    entity: greetings
+    action: boanoite
+  - commmand:
+    input:  Preciso de ajuda.
+    entity: greetings
+    action: ajuda
+  - commmand:
+    input:  Ajuda.
+    entity: greetings
+    action: ajuda
+  - commmand:
+    input:  Pode me ajudar?
+    entity: greetings
+    action: ajuda
+  # Hora
+  - commmand:
+    input:  Que horas são?
+    entity: time
+    action: getTime
+  - commmand:
+    input:  Horas.
+    entity: time
+    action: getTime
+  - commmand:
+    input:  Me digas horas.
+    entity: time
+    action: getTime
+  - commmand:
+    input:  Eu quero saber as horas.
+    entity: time
+    action: getTime
+  # Data
+  - commmand:
+    input:  Qual é a data de hoje?
+    entity: time
+    action: getDate
+  - commmand:
+    input:  Data de hoje.
+    entity: time
+    action: getDate
+  - commmand:
+    input:  Hoje.
+    entity: time
+    action: getDate
+  # Open
+  - commmand:
+    input:  Abrir bloco de notas.
+    entity: open
+    action: notepad
+  - commmand:
+    input:  bloco de notas.
+    entity: open
+    action: notepad
+  - commmand:
+    input:  Notas.
+    entity: open
+    action: notepad
+  - commmand:
+    input:  Abra o bloco de notas.
+    entity: open
+    action: notepad
+  - commmand:
+    input:  Abrir Navegador.
+    entity: open
+    action: navegador
+  - commmand:
+    input:  Navegador.
+    entity: open
+    action: navegador
+  - commmand:
+    input:  Internet.
+    entity: open
+    action: navegador
+  - commmand:
+    input:  Abra a internet.
+    entity: open
+    action: navegador
+  - commmand:
+    input:  Abra o Lolzinho.
+    entity: open
+    action: lol
+  - commmand:
+    input:  Abra meu jogo favorito.
+    entity: open
+    action: lol
+  - commmand:
+    input:  Jogo.
+    entity: open
+    action: lol
+  - commmand:
+    input:  Lol.
+    entity: open
+    action: lol
+  - commmand:
+    input:  Abra meu jogo favorito.
+    entity: open
+    action: lol

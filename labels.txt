@@ -1,0 +1,11 @@
+greetings|boatarde
+open|navegador
+time|getTime
+greetings|bomdia
+time|getDate
+greetings|ajuda
+greetings|tudobem
+open|notepad
+open|lol
+greetings|anna
+greetings|boanoite
